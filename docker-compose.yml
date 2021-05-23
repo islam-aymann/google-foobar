@@ -1,0 +1,7 @@
+version: '3.9'
+
+services:
+  py27:
+    build: .
+    command: echo 'Hello, world!'
+
