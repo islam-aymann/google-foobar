@@ -1,6 +1,6 @@
 ## Minion Task Scheduling
 
-Given time to solve: 24 hours.
+Time to solve: 24 hours.
 
 ### Description
 
