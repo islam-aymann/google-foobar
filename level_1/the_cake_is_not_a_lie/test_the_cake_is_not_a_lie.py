@@ -1,6 +1,6 @@
 import unittest
 
-from the_cake_is_not_a_lie import solution
+from level_1.the_cake_is_not_a_lie.the_cake_is_not_a_lie import solution
 
 
 class TheCakeIsNotALie(unittest.TestCase):
