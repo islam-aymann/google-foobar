@@ -1,6 +1,6 @@
 # Google Foobar challenges
 
-![img.png](media/001.png)
+![img.png](media/001.PNG)
 
 ## Sections
 
