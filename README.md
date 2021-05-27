@@ -4,13 +4,15 @@
 
 ## Sections
 
-### [Level #1](level_1): 
+### [Level #1](level_1):
+
 > You will be given one challenge
 
 - Mine: [The Cake is not a Lie](level_1/minion_task_scheduling)
 - [Minion Task Scheduling](level_1/minion_task_scheduling)
 
 ### [Level 2](level_2):
+
 > You will be given two challenges
 
 > After solving level challenges, I got:
@@ -24,7 +26,8 @@
 - [Numbers Station Coded Messages](level_2/numbers_station_coded_messages)
 
 ### [Level 3](level_3):
-
+- Mine: [Prepare The Bunnies Escape](level_3/prepare_the_bunnies_escape)
+- Mine: [The Grandest Staircase Of Them All](level_3/the_grandest_staircase_of_them_all)
 - [Find the Access Codes](level_3/find_the_access_codes)
 - [Queue to Do](level_3/queue_to_do)
 
