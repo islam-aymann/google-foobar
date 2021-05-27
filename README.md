@@ -12,6 +12,7 @@
 ### [Level 2](level_2):
 
 - Mine: [Ion Flux relabeling](level_2/ion_flux_relabeling)
+- Mine: [Please Pass the Coded Messages](level_2/please_pass_the_coded_messages)
 - [En Route Salute](level_2/en_route_salute)
 - [Numbers Station Coded Messages](level_2/numbers_station_coded_messages)
 
