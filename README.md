@@ -4,12 +4,19 @@
 
 ## Sections
 
-### [Level #1](level_1):
+### [Level #1](level_1): 
+> You will be given one challenge
 
 - Mine: [The Cake is not a Lie](level_1/minion_task_scheduling)
 - [Minion Task Scheduling](level_1/minion_task_scheduling)
 
 ### [Level 2](level_2):
+> You will be given two challenges
+
+> After solving level challenges, I got:
+> To invite a friend to try a challenge, send the link below. This is a single-use code, so choose wisely.
+
+> Refer a friend: "https://foobar.withgoogle.com/?eid=VUGHM" (Unused)
 
 - Mine: [Ion Flux relabeling](level_2/ion_flux_relabeling)
 - Mine: [Please Pass the Coded Messages](level_2/please_pass_the_coded_messages)
