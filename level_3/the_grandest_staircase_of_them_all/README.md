@@ -82,7 +82,9 @@ Output:
 487067745
 ```
 
-#### -- Python cases -- Input:
+#### -- Python cases -- 
+
+Input:
 
 ```
 solution.solution(200)

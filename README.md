@@ -25,9 +25,10 @@
 - [En Route Salute](level_2/en_route_salute)
 - [Numbers Station Coded Messages](level_2/numbers_station_coded_messages)
 
-### [Level 3](level_3):
+### [Level #3](level_3):
 - Mine: [Prepare The Bunnies Escape](level_3/prepare_the_bunnies_escape)
 - Mine: [The Grandest Staircase Of Them All](level_3/the_grandest_staircase_of_them_all)
+- Mine: [Fuel Injection Perfection](level_3/fuel_injection_perfection)
 - [Find the Access Codes](level_3/find_the_access_codes)
 - [Queue to Do](level_3/queue_to_do)
 
