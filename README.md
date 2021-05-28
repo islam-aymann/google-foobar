@@ -36,6 +36,9 @@
 #### After submitting full level solutions
 ![img.png](media/002.png)
 
-### Level 4:
+### [Level 4](level_4):
+> I received two challenges
+
+- Mine: [Free The Bunny Workers](level_4/free_the_bunny_workers)
 
 ### Level 5:
