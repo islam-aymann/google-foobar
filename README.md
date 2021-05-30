@@ -40,5 +40,27 @@
 > I received two challenges
 
 - Mine: [Free The Bunny Workers](level_4/free_the_bunny_workers)
+- Mine: [Bringing a Gun to a Trainer Fight](level_4/bringing_a_gun_to_a_trainer_fight)
 
-### Level 5:
+#### After completing the level
+>It's dangerous to go alone! To invite a friend to try a challenge, send the link below. This is a single-use code, so choose wisely.
+
+>Refer a friend: "https://foobar.withgoogle.com/?eid=xxxxx" (Unused)
+>Refer a friend: "https://foobar.withgoogle.com/?eid=VUGHM" (Used)
+
+![img.png](media/003.PNG)
+### [Level 5](level_5):
+> I received one challenge
+ 
+- Mine: [Dodge the Lasers!](level_5/dodge_the_lasers)
+
+
+## Useful Resources 
+- [Solving Google Foobar and hacking it along the way](https://govanify.com/post/foobar/)
+- [Arink Verma Github](https://github.com/arinkverma/google-foobar)
+- [Neeraj Aggarwal Github](https://github.com/n3a9/google-foobar)
+- [Shrey Shah Post](https://pages.cs.wisc.edu/~shrey/2020/08/10/google-foobar.html)
+- [Shrey Shah Github](https://github.com/shreykshah/google-foobar)
+- [Rudy Puig Github](https://github.com/rudisimo/google-foobar)
+- [Sage Callon Github](https://github.com/FoxHub/Google-FooBar)
+- [Google’s FooBar Challenge | See How I Passed Levels 1 to 5 in Real-Time](https://blog.finxter.com/googles-foobar/)
