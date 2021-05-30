@@ -1,7 +1,9 @@
-# Google Foobar challenges
+# Google Foobar challenge
+#### Google Foobar challenge solutions from my experience and other's on the web.
 
 ![img.png](media/001.PNG)
-
+#### Note: 
+> Problems indicated with "Mine" are tested and verified through the platform directly and other problems are not verified, so you may get failed tests.
 ## Sections
 
 ### [Level #1](level_1):
