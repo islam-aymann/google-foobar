@@ -56,6 +56,8 @@
  
 - Mine: [Dodge the Lasers!](level_5/dodge_the_lasers)
 
+![img.png](media/004.PNG)
+![img.png](media/005.PNG)
 
 ## Useful Resources 
 - [Solving Google Foobar and hacking it along the way](https://govanify.com/post/foobar/)
